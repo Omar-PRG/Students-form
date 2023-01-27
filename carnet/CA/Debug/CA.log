@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\hp\desktop\carnet\carnet d'adresse -omar+ariane\ca\source.c(375): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\hp\desktop\carnet\carnet d'adresse -omar+ariane\ca\source.c(421): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+c:\users\hp\desktop\carnet\carnet d'adresse -omar+ariane\ca\source.c(537): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  CA.vcxproj -> C:\Users\HP\Desktop\carnet\Carnet d'adresse -OMAR+ARIANE\Debug\CA.exe
